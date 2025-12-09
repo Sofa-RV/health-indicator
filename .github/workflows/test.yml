@@ -11,8 +11,3 @@ jobs:
         cache: npm
     - run: npm ci
     - run: npm test
-    - uses: dorny/conditional-unit-check@v1.0.1
-      with:
-        matrix:
-          jobs: test
-        condition: 'matrix.jobs.passed == true'
