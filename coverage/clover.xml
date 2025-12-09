@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1765276270352" clover="3.2.0">
-  <project timestamp="1765276270353" name="All files">
+<coverage generated="1765278704236" clover="3.2.0">
+  <project timestamp="1765278704237" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="index.js" path="C:\Users\Соня\Desktop\health-indicator\src\index.js">
       <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
